@@ -1,0 +1,3 @@
+[submodule "mod-dlls"]
+	path = mod-dlls
+	url = https://github.com/lets-school-central/mod-dlls.git
